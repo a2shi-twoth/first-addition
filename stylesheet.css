@@ -19,9 +19,9 @@ a {
 
 .top-wrapper {
   padding: 180px 0 100px 0;
-  background-image: url(moriyama.pdf);
+  background-image: url(moriyama.png);
   background-size: cover;
-  color: white;
+  color: red;
   text-align: center;
 }
 
